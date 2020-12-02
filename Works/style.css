@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("../Images/works-background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#main-container{
+    margin-top: 200px;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 150px;
+    min-width: 750px;
+}
+footer{
+ background-color: white;
+}
+.spec{
+    color: #468b53;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.spc-bold{
+    color: #468b53;
+    font-size: 20px;
+}
+#app-store{
+    margin-top: 12px;
+}

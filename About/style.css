@@ -1,0 +1,19 @@
+#main{
+    margin-top: 150px;
+}
+.text-col{
+    background-color: white;
+    padding: 25px;
+    margin-top: -400px;
+    margin-left: 100px;
+    min-width:400px;
+}
+#main-text{
+    color: #a79843;
+    font-family: "American Typewriter", sans-serif !important;
+    font-weight: 500;
+    font-size: 17px;
+}
+u{
+    color: #b4d253;
+}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Vegecious-Website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/About/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Login-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/about-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/app-store-btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/fb-image.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/g-plus-image.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/google-play-btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/home-page-img-9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ig-image.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/locations-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/vegecious-logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/works-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Locations/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Works/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howItWorks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jquery-3.3.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lottie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mdbootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mdbootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/twitter-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terms/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l4VQiy5E6hdMoSOvmIDDYV8udg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images" />
+      <recent name="$PROJECT_DIR$/Modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.terms.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="howItWorks.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/howItWorks.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="locations.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/locations.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="terms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/terms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.terms.html" />
+        <item itemvalue="JavaScript Debug.locations.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.howItWorks.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="" />
+      <created>1606856336935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606856336935</updated>
+      <workItem from="1606856338681" duration="10987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
