@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="" />
+    <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606856336935</updated>
       <workItem from="1606856338681" duration="14568000" />
-      <workItem from="1606962389986" duration="726000" />
+      <workItem from="1606962389986" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1606883319004</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606963066297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add text color">
+      <created>1606963299036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606963299036</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="fix links and add styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix links and add styles" />
+    <MESSAGE value="add text color" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text color" />
   </component>
 </project>
