@@ -2,56 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Vegecious-Website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Login-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/about-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/app-store-btn.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/fb-image.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/g-plus-image.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/google-play-btn.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-11.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-8.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/home-page-img-9.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/ig-image.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/locations-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/vegecious-logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/works-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locations/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Works/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howItWorks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/jquery-3.3.1.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/lottie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/mdbootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/mdbootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/twitter-bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terms/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chef/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contact/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/chef-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/contact-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/contact-img.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/smile.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privacy/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chef.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deliver.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deliver/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/howItWorks.html" beforeDir="false" afterPath="$PROJECT_DIR$/howItWorks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/locations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +41,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l4VQiy5E6hdMoSOvmIDDYV8udg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,29 +68,29 @@
       <recent name="$PROJECT_DIR$/Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.terms.html">
-    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/about.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="chef.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/chef.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="howItWorks.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/howItWorks.html" useBuiltInWebServerPort="true">
+    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="locations.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/locations.html" useBuiltInWebServerPort="true">
+    <configuration name="covid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/covid.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/login.html" useBuiltInWebServerPort="true">
+    <configuration name="deliver.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/deliver.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="terms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/terms.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vegecious-Website/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.terms.html" />
-        <item itemvalue="JavaScript Debug.locations.html" />
-        <item itemvalue="JavaScript Debug.login.html" />
-        <item itemvalue="JavaScript Debug.howItWorks.html" />
-        <item itemvalue="JavaScript Debug.about.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.chef.html" />
+        <item itemvalue="JavaScript Debug.deliver.html" />
+        <item itemvalue="JavaScript Debug.contact.html" />
+        <item itemvalue="JavaScript Debug.covid.html" />
       </list>
     </recent_temporary>
   </component>
@@ -129,8 +102,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606856336935</updated>
-      <workItem from="1606856338681" duration="10987000" />
+      <workItem from="1606856338681" duration="14568000" />
+      <workItem from="1606962389986" duration="412000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1606883319004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606883319004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
