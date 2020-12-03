@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chef/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covid/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/chef-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/contact-background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/contact-img.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/smile.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privacy/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chef.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/covid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deliver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deliver/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howItWorks.html" beforeDir="false" afterPath="$PROJECT_DIR$/howItWorks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/locations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
-    </list>
+    <list default="true" id="b02f9b2b-cb7c-4e6c-832f-3ec6eaf5468c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606856336935</updated>
       <workItem from="1606856338681" duration="14568000" />
-      <workItem from="1606962389986" duration="412000" />
+      <workItem from="1606962389986" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1606883319004</created>
@@ -112,14 +90,33 @@
       <option name="project" value="LOCAL" />
       <updated>1606883319004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix links and add styles">
+      <created>1606963066297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606963066297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="fix links and add styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix links and add styles" />
   </component>
 </project>
